@@ -18,9 +18,9 @@ socialLinks:
     label: Visit
     show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/chandlervillacruz
     label: Visit
-    show: false
+    show: true
   pinterest:
     url: null
     label: Visit

@@ -19,7 +19,7 @@ socialLinks:
     show: false
   linkedin:
     url: https://www.linkedin.com/in/chandlervillacruz
-    label: Visit
+    label: LinkedIn
     show: true
   pinterest:
     url: null

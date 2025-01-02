@@ -7,7 +7,7 @@ published: true
 date: 2024-12-29T19:59:45.175Z
 teaser: New test blog without featured image, lets try to post...
 featuredImage:
-  src: /img/wicked1.jpeg
+  src: /img/pexels-rdne-9034791.jpg
   alt: Wicked
 profileButton:
   label: About Me

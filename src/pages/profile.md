@@ -53,7 +53,7 @@ pageContent: >-
   * **Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
 subheader: null
 blogButton:
-  label: Visit My Blog
+  label: Latest Post
   link: /blog
 discoverConnectExplore: What does this lead to
 longBiography_MD: |

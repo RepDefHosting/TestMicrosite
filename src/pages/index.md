@@ -12,11 +12,14 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
+  src: /img/pexels-goumbik-928199.jpg
   alt: Chandler Villacruz
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: Since joining the web-based restaurant review company in its
+  startup phase, Chandler Villacruz has spearheaded market research activities
+  that have allowed the firm to build effective advertising campaigns and
+  achieve sound business growth.
 published: true
 profileButton:
   link: /profile
@@ -31,4 +34,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](https://about.me/chandlervillacruz)**.
